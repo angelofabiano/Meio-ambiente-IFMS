@@ -16,7 +16,7 @@ public class MeioAmbienteIFMS {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("meio.ambiente.ifms.MeioAmbienteIFMS.main()");
+        System.out.println("meio.ambiente.ifms.Meio AmbienteIFMS.main()");
         System.out.println("hello mundo");
     }
     
